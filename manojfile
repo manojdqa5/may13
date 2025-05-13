@@ -1,5 +1,22 @@
 fnewly createrd by sai file 1
 echo "welcome to jhc"
+<<<<<<< HEAD
 newly added by naveenii
 echo " hi sai my from hos oihaoifekj	ew"
 
+=======
+newly added by naveen
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6>
+
+</body>
+</html>
+>>>>>>> f47f6067da27e94254286c827df67b28cbea09d5
